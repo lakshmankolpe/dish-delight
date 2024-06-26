@@ -95,7 +95,7 @@
 }
 
 .team-member-image {
-    height: 175px;
+    height: 190px;
     width: 230px;
     margin: 0px 0px;
     border-radius: 10px;
@@ -113,17 +113,18 @@
 }
 
 .member-social-media-icon {
-    height: 80px;
+    height: 50px;
     padding: 0 10px;
     display: flex;
     justify-content: space-evenly;
     align-items: center;
-
+    
 }
 
 .icon-12 {
-    height: 30px;
+    height: 25px;
     cursor: pointer;
+    
 }
 
 
