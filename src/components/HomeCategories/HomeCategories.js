@@ -1,7 +1,7 @@
 
-    import { categoriesData, popularFood } from "../../data/HomeData";
+    import { categoriesData } from "../../data/HomeData";
     import CategoriesSection from "../CategoriesSection/CategoriesSection";
-    import HeroSection from "../HeroSection/HeroSection";
+  
     
     
     function HomeCategories() {
@@ -22,23 +22,7 @@
                     ))}
                 </div>
 
-                <div>
-                    <h2 className="text-center text-white mx-auto my-3 px-1 py-2 rounded bg-secondary w-50">
-                        India`s Popular Foods
-                    </h2>
-                    <div className="d-flex flex-wrap justify-content-evenly">
-                        {popularFood.map((food, index) => (
-                            <HeroSection
-                            key={index}
-                            id={food.id}
-                            image={food.image}
-                            title={food.title}
-                            rating={food.rating}
-                            descr={food.descr}
-                            />
-                            ))}
-                    </div>
-                </div>
+              
             </>
         );
     }

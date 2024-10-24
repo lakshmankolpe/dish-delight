@@ -7,7 +7,7 @@ function HolidayRecipe({ id, name, description, imageUrl }) {
 
   return (
     <Link className="col-md-4 my-3 text-decoration-none text-center" to={`/maharashtraspecial/${id}`}>
-      <div className="card h-100">
+      <div className="card h-100 ">
         <img src={imageUrl} className="card-img-top h-200" alt={name} />
         <div className="card-body ">
           <h5 className="card-title">{name}</h5>
@@ -21,7 +21,7 @@ function HolidayRecipe({ id, name, description, imageUrl }) {
 function HolidaySpecials() {
   return (
     <div className="container my-5">
-      <h2 className="bg-secondary w-50 mx-auto text-center my-4 rounded text-white py-2">
+      <h2 className="bg-secondary w-75 mx-auto text-center my-4 rounded text-white py-2">
         Maharashtrian Special
       </h2>
 

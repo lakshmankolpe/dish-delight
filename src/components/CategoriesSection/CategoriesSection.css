@@ -1,10 +1,9 @@
 .categories-section {
   text-decoration: none;
-  margin: 20px;
+  margin: 10px;
   background-color: white;
   padding: 10px;
   border-radius: 15px;
- 
 }
 
 .categories-container {
@@ -14,8 +13,6 @@
   align-items: center;
   width: 230px;
   padding: 5px;
-
-
 }
 
 .category-image {
@@ -35,11 +32,4 @@
   margin-top: 10px;
   font-weight: 500;
   color: green;
-
-}
-
-.category-timing {
-  color: gray;
-  margin-top: 5px;
-
 }

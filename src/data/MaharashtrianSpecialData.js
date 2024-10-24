@@ -25,7 +25,7 @@ const MaharashtrianSpecialData = [
     {
         id: "Aamras",
         title: "Aamras",
-        image: "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR-ff2z1inLeqI68T6WHOJvSt0MZ_PIiY9fNA&usqp=CAU",
+        image: "https://t4.ftcdn.net/jpg/04/97/30/27/360_F_497302749_brGQFNiej96MyPLU5u277VTfXQp1bcy7.jpg",
         ingredients: [
             "1 Mango Alphonso works best",
             "2 - 3 tablespoon Sugar Adjust according to your sweet level",
@@ -48,7 +48,7 @@ const MaharashtrianSpecialData = [
     {
         id: "Puran Poli",
         title: "Puran Poli",
-        image: "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTVQgUm7ONNRRZwqZk0FO5Cdn5QkVLba5bvRw&usqp=CAU",
+        image: "https://static.vecteezy.com/system/resources/previews/015/933/285/large_2x/puran-poli-puran-roti-holige-obbattu-or-bobbattlu-is-indian-sweet-flatbread-from-maharashtra-free-photo.jpg",
         ingredients: [
             "FOR PURAN (DAL STUFFING): 1½ cup chana dal",
             "¼ tsp turmeric",
